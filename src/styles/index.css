@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.title {
+    font-size: 10vw;
+}
+
+.btn{
+    float: right;
+}
